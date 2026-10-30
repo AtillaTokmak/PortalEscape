@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "portalescape",
+  "version": "${version}",
+  "name": "PortalEscape",
+  "description": "Client-side fabric mod to safely recover players trapped or immobilized in portals.",
+  "authors": [
+    "Atilla"
+  ],
+  "contact": {
+    "homepage": "https://github.com/atilla/portalescape"
+  },
+  "license": "MIT",
+  "icon": "assets/portalescape/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.portalescape.PortalEscapeClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

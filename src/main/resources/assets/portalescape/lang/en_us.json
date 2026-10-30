@@ -1,0 +1,8 @@
+{
+  "key.categories.portalescape": "Portal Escape",
+  "key.portalescape.open_chat": "Emergency Portal Chat (Command)",
+  "key.portalescape.open_plain_chat": "Open Normal Chat in Portal",
+  "key.portalescape.share_coords": "Share Coordinates in Chat",
+  "portalescape.status.stuck": "Trapped in portal detected! Sending recovery command...",
+  "portalescape.status.cooldown": "Portal recovery command executed. Cooldown active."
+}
