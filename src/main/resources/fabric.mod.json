@@ -5,10 +5,10 @@
   "name": "PortalEscape",
   "description": "Client-side fabric mod to safely recover players trapped or immobilized in portals.",
   "authors": [
-    "Atilla"
+    "AtillaTokmak"
   ],
   "contact": {
-    "homepage": "https://github.com/atilla/portalescape"
+    "homepage": "https://github.com/AtillaTokmak/PortalEscape"
   },
   "license": "MIT",
   "icon": "assets/portalescape/icon.png",
